@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="C9X-110-1223L" name="com.tekdays.TekEventSpec" skipped="0" tests="1" time="4.973" timestamp="2015-10-09T07:09:00">
+<testsuite errors="0" failures="0" hostname="igor-Inspiron-5423" name="com.tekdays.TekEventSpec" skipped="0" tests="1" time="4.567" timestamp="2015-10-11T13:49:31">
   <properties />
-  <testcase classname="com.tekdays.TekEventSpec" name="test toString" time="4.707" />
+  <testcase classname="com.tekdays.TekEventSpec" name="test toString" time="4.427" />
   <system-out><![CDATA[--Output from test toString--
 ]]></system-out>
   <system-err><![CDATA[--Output from test toString--
