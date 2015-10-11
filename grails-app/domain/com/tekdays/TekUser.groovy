@@ -8,6 +8,9 @@ class TekUser {
     String website
     String bio
 
+    // TekEvent tekEvent
+    // static belongsTo = [TekEvent]
+
     String toString() { fullName }
 
     static constraints = {
